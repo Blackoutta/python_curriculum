@@ -4,7 +4,7 @@ block_cipher = None
 
 
 a = Analysis(['quiz.py'],
-             pathex=['F:\\备课\\2018-2019_上学期\\Python程序设计2018\\quizzes_exe'],
+             pathex=['E:\\备课\\2018-2019上学期备课\\python_curriculum\\quizzes_exe'],
              binaries=[],
              datas=[],
              hiddenimports=[],

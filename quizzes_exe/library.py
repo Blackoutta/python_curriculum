@@ -5,37 +5,41 @@
 # }
 
 quiz_1 = {
-'question': '在工作中，你应不应该在备注中写上联系方式，以便学习交流之用？',
-'answer_ls': ('应该的，程序员想要成长靠的就是交流', '不应该，这是作死行为，因为我的代码有可能会成为难以解决的祖传代码'),
-'real_answer': '不应该，这是作死行为，因为我的代码有可能会成为难以解决的祖传代码'
+'question': '使用单个字母命名变量是不是一个好习惯',
+'answer_ls': ('是，我打字更快了，一口气打5页不费劲', '不是，在程序越来越复杂后，我就很难分清各个变量的作用了'),
+'real_answer': '不是，在程序越来越复杂后，我就很难分清各个变量的作用了'
 }
 
 quiz_2 = {
-'question': '我应该将自己学习过程中写的脚本都存储在github上',
-'answer_ls': ('True', 'False'),
-'real_answer': 'True'
+'question': '在python中，对于一般的变量，我应该用哪种风格来命名',
+'answer_ls': ('snake_case', 'camelCase'),
+'real_answer': 'snake_case'
 }
 
 quiz_3 = {
-'question': '下列哪个符号可以在python中计算余数',
-'answer_ls': ('%', '*', '/', '>'),
-'real_answer': '%'
+'question': '下列哪个是正确的常量书写方式',
+'answer_ls': ('MYNAME', 'my_name', 'MyName', 'myName'),
+'real_answer': 'MYNAME'
 }
 
 quiz_4 = {
-'question': '下列哪个控制台命令可以让你进入python的REPL',
-'answer_ls': ('python', 'python <file name>', 'python -i <file name>'),
-'real_answer': 'python'
+'question': '下列哪行代码正确地使用了 f-string 风格的格式化字符串',
+'answer_ls': ('print("我的名字是 name, 我今年 age 岁")',
+f'print("我的名字是{{name}}, 我今年{{age}}岁")',
+f'print(f"我的名字是{{name}}, 我今年{{age}}岁")'),
+'real_answer': f'print(f"我的名字是{{name}}, 我今年{{age}}岁")'
 }
 
 quiz_5 = {
-'question': '下列哪个运算符可以用在字符串上',
-'answer_ls': ('+', '-', '*', '/', '%'),
-'real_answer': '*'
+'question': '下列哪行代码正确地使用了 str.format 风格的格式化字符串',
+'answer_ls': ('print("我的名字是 name, 我今年 age 岁".format(name, age))',
+f'print("我的名字是{{}}, 我今年{{}} 岁".format(name, age))',
+f'print("我的名字是{{name}}, 我今年{{age}} 岁".format(name, age))'),
+'real_answer': f'print("我的名字是{{}}, 我今年{{}} 岁".format(name, age))'
 }
 
 quiz_6 = {
-'question': '下列哪个操作可以让你退出REPL或任何正在运行的python脚本',
-'answer_ls': ('ESC', 'CTRL+C', 'CTRL+Z 或 exit() + 回车'),
-'real_answer': 'CTRL+Z 或 exit() + 回车'
+'question': '变量名称能不能以数字命名',
+'answer_ls': ('能', '不能'),
+'real_answer': '不能'
 }

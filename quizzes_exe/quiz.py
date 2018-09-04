@@ -52,7 +52,7 @@ class Quiz():
 
 
 #这里设置课题  <<<<<<<<<<<<<<<<<<<
-subject = "打印 x 备注 x 数学计算 小测验"
+subject = "变量 x 格式化字符串 小测验"
 
 def quiz_loop():
     clear_screen()
