@@ -25,4 +25,4 @@ letter12 = "r"
 print(letter1 + letter2 + letter3 + letter4 + letter5 + letter6, end = '')
 print(letter7 + letter8 + letter9 + letter10 + letter11 + letter12)
 
-# TODO:刚才的第一个print中的語句後面有個 letter = ''，你可以尝试变更引号里面的内容，看看会发生什么事情。你可以先用 \n
+# TODO:刚才的第一个print中的語句後面有個 end = ''，你可以尝试变更引号里面的内容，看看会发生什么事情。
