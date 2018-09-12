@@ -1,8 +1,11 @@
-def poem():
-    print("窗前明月光")
-    print("疑似地上霜")
-    print("举头望明月")
-    print("低头思故乡")
+def add(num1, num2):
+    return num1 + num2
 
-def author(project, author):
-    print("{}的作者是{}".format(project, author))
+total = add(100, 150)
+print(total)
+
+# age + (height - (iq/2) * weight)
+add(age, subtract(height, multiply(weight, divide(iq, 2))))
+
+# 24 + 34 / 100 - 1023
+subtract(add(24, subtract(34/100)), 1023)
