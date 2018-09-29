@@ -26,5 +26,6 @@ def disemvowel(word):
     list_into_word = ''.join(word_into_list)
     print(list_into_word)
 
-user_word = input("Please enter a word to be disemvoweled:  ")
-disemvowel(user_word)
+while True:
+    user_word = input("请输入一个英文单词:  ")
+    disemvowel(user_word)
