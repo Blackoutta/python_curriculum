@@ -9,6 +9,7 @@ res = requests.get('http://www.baidu.com/s?wd=' + ' '.join(sys.argv[1:]))
 # 如果网址无效就报错并终止程序，每次必加
 res.raise_for_status()
 
+# TODO: 创建文件 ex2.py，将上方代码复制进去
 # TODO: 普通模式：用bs4抓取前三个搜索结果的URL，它们被存储在<a>标签中的 href属性中
 # TODO: 挑战模式：用bs4抓取随机三个搜索结果的URL，它们被存储在<a>标签中的 href属性中
 

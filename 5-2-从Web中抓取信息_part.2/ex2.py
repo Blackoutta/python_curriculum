@@ -3,6 +3,9 @@
 import requests, sys, webbrowser, bs4
 from random import randint
 
+if len(sys.argv) < 2:
+    print("本脚本使用格式：python ex3.py <搜索内容>")
+    sys.exit()
 
 print("正在下载网页...")
 # 用requests下载百度搜索的网页，搜索关键词为所有的命令行参数(文件名除外)
