@@ -1,0 +1,423 @@
+1540343761316	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\hyyte\\AppData\\Local\\Temp\\rust_mozprofile.asuGbNPGkS8J"
+1540343763092	Marionette	INFO	Listening on port 63686
+1540343763474	Marionette	WARN	TLS certificate errors will be ignored for this session
+1540343763504	Marionette	DEBUG	[6442450945] Frame script loaded
+1540343763505	Marionette	DEBUG	[6442450945] Frame script registered
+1540343763519	Marionette	DEBUG	[6442450945] Received DOM event beforeunload for about:blank
+1540343765779	Marionette	DEBUG	[6442450945] Received DOM event beforeunload for about:blank
+1540343765780	Marionette	DEBUG	[6442450945] Received DOM event pagehide for about:blank
+1540343765805	Marionette	DEBUG	[6442450945] Received DOM event DOMContentLoaded for about:neterror?e=dnsNotFound&u=http%3A//http//i.cqevi.net.cn/zfca/login&c=UTF-8&f=regular&d=%E6%88%91%E4%BB%AC%E6%97%A0%E6%B3%95%E8%BF%9E%E6%8E%A5%E8%87%B3%20http%20%E7%9A%84%E6%9C%8D%E5%8A%A1%E5%99%A8%E3%80%82
+JavaScript error: https://ss1.bdstatic.com/5eN1bjq8AAUYm2zgoY3K/r/www/cache/static/protocol/https/plugins/every_cookie_4644b13.js, line 4: ReferenceError: c is not defined
+[Parent 19984, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Parent 19984, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 932, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 16492, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 16492, Chrome_C[Parent 19984, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 4960, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 4960, Ch1540343793734	Marionette	INFO	Stopped listening on port 63686
+[GPU 1947
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1540343820021	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\hyyte\\AppData\\Local\\Temp\\rust_mozprofile.8GUjtpOAyykG"
+1540343821325	Marionette	INFO	Listening on port 63775
+1540343821661	Marionette	WARN	TLS certificate errors will be ignored for this session
+1540343821684	Marionette	DEBUG	[6442450945] Frame script loaded
+1540343821686	Marionette	DEBUG	[6442450945] Frame script registered
+1540343821696	Marionette	DEBUG	[6442450945] Received DOM event beforeunload for about:blank
+1540343821737	Marionette	DEBUG	[6442450945] Received DOM event pagehide for about:blank
+1540343821810	Marionette	DEBUG	[6442450945] Received DOM event DOMContentLoaded for http://i.cqevi.net.cn/zfca/login
+1540343821915	Marionette	DEBUG	[6442450945] Received DOM event pageshow for http://i.cqevi.net.cn/zfca/login
+[Parent 7336, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Parent 7336, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 18512, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346[Child 9180, Chrome_ChildThread] WARNING: pipe error: 109: file z:
+/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 9180, Chrom[Parent 7336, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 19136, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 1540343833702	Marionette	INFO	Stopped listening on port 63775
+[GPU 1808
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1540344831685	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\hyyte\\AppData\\Local\\Temp\\rust_mozprofile.Rh0d1nqx9Jwn"
+1540344833030	Marionette	INFO	Listening on port 64153
+1540344833309	Marionette	WARN	TLS certificate errors will be ignored for this session
+1540344833330	Marionette	DEBUG	[6442450945] Frame script loaded
+1540344833331	Marionette	DEBUG	[6442450945] Frame script registered
+1540344833344	Marionette	DEBUG	[6442450945] Received DOM event beforeunload for about:blank
+1540344833390	Marionette	DEBUG	[6442450945] Received DOM event pagehide for about:blank
+1540344833479	Marionette	DEBUG	[6442450945] Received DOM event DOMContentLoaded for http://i.cqevi.net.cn/zfca/login
+1540344833577	Marionette	DEBUG	[6442450945] Received DOM event pageshow for http://i.cqevi.net.cn/zfca/login
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PAPZCTreeManager::Msg_SetTargetAPZC Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+[Parent 516, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Parent 516, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 7968, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 17104, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 1710[Parent 516, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 10708, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 10701540345066566	Marionette	INFO	Stopped listening on port 64153
+[GPU 20188, 
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+n.cc, line 346
+[Child 19612, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346[Child 4160, Chrome_ChildThread] WARNING: pipe error: 109: file 
+[Child 1961z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 41[Parent 19700, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 16696, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[1540345050283	Marionette	INFO	Stopped listening on port 64255
+[GPU 12692, Chrome_Chi
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1540345055574	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\hyyte\\AppData\\Local\\Temp\\rust_mozprofile.CcipJn6z5Eec"
+1540345056894	Marionette	INFO	Listening on port 64294
+1540345057220	Marionette	WARN	TLS certificate errors will be ignored for this session
+1540345057259	Marionette	DEBUG	[6442450945] Frame script loaded
+1540345057261	Marionette	DEBUG	[6442450945] Frame script registered
+1540345057271	Marionette	DEBUG	[6442450945] Received DOM event beforeunload for about:blank
+1540345057311	Marionette	DEBUG	[6442450945] Received DOM event pagehide for about:blank
+1540345057384	Marionette	DEBUG	[6442450945] Received DOM event DOMContentLoaded for http://i.cqevi.net.cn/zfca/login
+1540345057504	Marionette	DEBUG	[6442450945] Received DOM event pageshow for http://i.cqevi.net.cn/zfca/login
+1540345057533	Marionette	DEBUG	[6442450945] Received DOM event beforeunload for http://i.cqevi.net.cn/zfca/login
+1540345057556	Marionette	DEBUG	[6442450945] Received DOM event pagehide for http://i.cqevi.net.cn/zfca/login
+1540345057556	Marionette	DEBUG	[6442450945] Received DOM event unload for http://i.cqevi.net.cn/zfca/login
+1540345057585	Marionette	DEBUG	[6442450945] Received DOM event DOMContentLoaded for http://i.cqevi.net.cn/zfca/securitycenter/findpwd/recoverpasswd.jsp;jsessionid=639CED1F4CCB566EF59F8ED278D89E89
+1540345057650	Marionette	DEBUG	[6442450945] Received DOM event pageshow for http://i.cqevi.net.cn/zfca/securitycenter/findpwd/recoverpasswd.jsp;jsessionid=639CED1F4CCB566EF59F8ED278D89E89
+[Parent 20448, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Parent 20448, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 18536, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346[Child 6308, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel
+_win.cc, line 346
+[Child 6[Parent 20448, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 3024, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 3024,1540345064967	Marionette	INFO	Stopped listening on port 64294
+[GPU 10500, Chro
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1540345071882	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\hyyte\\AppData\\Local\\Temp\\rust_mozprofile.t7G7ZQvoZyH2"
+1540345073515	Marionette	INFO	Listening on port 64332
+1540345073539	Marionette	WARN	TLS certificate errors will be ignored for this session
+1540345073561	Marionette	DEBUG	[6442450945] Frame script loaded
+1540345073580	Marionette	DEBUG	[6442450945] Frame script registered
+1540345073597	Marionette	DEBUG	[6442450945] Received DOM event beforeunload for about:blank
+1540345073636	Marionette	DEBUG	[6442450945] Received DOM event pagehide for about:blank
+1540345073712	Marionette	DEBUG	[6442450945] Received DOM event DOMContentLoaded for http://i.cqevi.net.cn/zfca/login
+1540345073825	Marionette	DEBUG	[6442450945] Received DOM event pageshow for http://i.cqevi.net.cn/zfca/login
+1540345073886	Marionette	DEBUG	[6442450945] Received DOM event beforeunload for http://i.cqevi.net.cn/zfca/login
+1540345073910	Marionette	DEBUG	[6442450945] Received DOM event pagehide for http://i.cqevi.net.cn/zfca/login
+1540345073910	Marionette	DEBUG	[6442450945] Received DOM event unload for http://i.cqevi.net.cn/zfca/login
+1540345073941	Marionette	DEBUG	[6442450945] Received DOM event DOMContentLoaded for http://i.cqevi.net.cn/zfca/securitycenter/findpwd/recoverpasswd.jsp;jsessionid=A59E216966678BEC5CCC88264510214A
+1540345074014	Marionette	DEBUG	[6442450945] Received DOM event pageshow for http://i.cqevi.net.cn/zfca/securitycenter/findpwd/recoverpasswd.jsp;jsessionid=A59E216966678BEC5CCC88264510214A
+[Parent 3128, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Parent 3128, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 20428, Chrome_ChildThread] WARNING: pipe error: 109: file z:[Child 16656, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line /build/build/sr346
+c/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 20428, Chro[Parent 3128, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 13212, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 13212, Chro1540345355686	Marionette	INFO	Stopped listening on port 64332
+[GPU 1264, Chr
+###!!! [Child][MessageChannel::SendAndWait] Error: Ch[Parent 16996, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Parent 16996, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 17956, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346[Child 17056, Chrome_ChildT
+hread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 17056, Ch[Parent 16996, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+1540345458937	Marionette	INFO	Stopped listening on port 64403
+[GPU 8872, Chrome_
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1540349403219	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\hyyte\\AppData\\Local\\Temp\\rust_mozprofile.Tks98JonEeIJ"
+1540349404549	Marionette	INFO	Listening on port 65449
+1540349404868	Marionette	WARN	TLS certificate errors will be ignored for this session
+1540349404889	Marionette	DEBUG	[6442450945] Frame script loaded
+1540349404891	Marionette	DEBUG	[6442450945] Frame script registered
+1540349404899	Marionette	DEBUG	[6442450945] Received DOM event beforeunload for about:blank
+1540349404933	Marionette	DEBUG	[6442450945] Received DOM event pagehide for about:blank
+1540349405019	Marionette	DEBUG	[6442450945] Received DOM event DOMContentLoaded for http://i.cqevi.net.cn/zfca/login
+1540349405098	Marionette	DEBUG	[6442450945] Received DOM event pageshow for http://i.cqevi.net.cn/zfca/login
+1540349405336	Marionette	DEBUG	[6442450945] Canceled page load listener because no navigation has been detected
+1540349405557	Marionette	DEBUG	[6442450945] Canceled page load listener because no navigation has been detected
+JavaScript warning: http://i.cqevi.net.cn/js/commanFunction.js, line 2043: unreachable code after return statement
+JavaScript warning: http://i.cqevi.net.cn/js/jquery-1.4.2.js, line 3686: unreachable code after return statement
+JavaScript error: http://i.cqevi.net.cn/wnr.jsp, line 726: SyntaxError: expected expression, got end of script
+JavaScript error: http://i.cqevi.net.cn/wnr.jsp, line 636: ReferenceError: event is not defined
+JavaScript error: http://i.cqevi.net.cn/wnr.jsp, line 636: ReferenceError: event is not defined
+JavaScript error: http://i.cqevi.net.cn/wnr.jsp, line 636: ReferenceError: event is not defined
+JavaScript error: http://i.cqevi.net.cn/wnr.jsp, line 636: ReferenceError: event is not defined
+JavaScript error: http://i.cqevi.net.cn/wnr.jsp, line 636: ReferenceError: event is not defined
+JavaScript error: http://i.cqevi.net.cn/wnr.jsp, line 636: ReferenceError: event is not defined
+JavaScript error: http://i.cqevi.net.cn/wnr.jsp, line 636: ReferenceError: event is not defined
+JavaScript error: http://i.cqevi.net.cn/wnr.jsp, line 636: ReferenceError: event is not defined
+JavaScript error: http://i.cqevi.net.cn/wnr.jsp, line 636: ReferenceError: event is not defined
+JavaScript error: http://i.cqevi.net.cn/wnr.jsp, line 636: ReferenceError: event is not defined
+JavaScript error: http://i.cqevi.net.cn/wnr.jsp, line 636: ReferenceError: event is not defined
+JavaScript error: http://i.cqevi.net.cn/wnr.jsp, line 636: ReferenceError: event is not defined
+JavaScript error: http://i.cqevi.net.cn/wnr.jsp, line 636: ReferenceError: event is not defined
+JavaScript error: http://i.cqevi.net.cn/wnr.jsp, line 636: ReferenceError: event is not defined
+JavaScript error: http://i.cqevi.net.cn/wnr.jsp, line 636: ReferenceError: event is not defined
+JavaScript error: http://i.cqevi.net.cn/wnr.jsp, line 636: ReferenceError: event is not defined
+JavaScript error: http://i.cqevi.net.cn/wnr.jsp, line 636: ReferenceError: event is not defined
+JavaScript error: http://i.cqevi.net.cn/wnr.jsp, line 636: ReferenceError: event is not defined
+JavaScript error: http://i.cqevi.net.cn/wnr.jsp, line 636: ReferenceError: event is not defined
+JavaScript error: http://i.cqevi.net.cn/wnr.jsp, line 636: ReferenceError: event is not defined
+JavaScript error: http://i.cqevi.net.cn/wnr.jsp, line 636: ReferenceError: event is not defined
+JavaScript error: http://i.cqevi.net.cn/wnr.jsp, line 636: ReferenceError: event is not defined
+JavaScript error: http://i.cqevi.net.cn/wnr.jsp, line 636: ReferenceError: event is not defined
+JavaScript warning: http://i.cqevi.net.cn/js/commanFunction.js, line 2043: unreachable code after return statement
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PAPZCTreeManager::Msg_SetTargetAPZC Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+[Child 15008, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 15008, Chrome_ChildThread] WARNING: pipe errIPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+[Parent 4076, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 9476, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 94761540350066437	Marionette	INFO	Stopped listening on port 65449
+[GPU 592
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+/commanFunction.js, line 2043: unreachable code after return statement
+JavaScript error: http://i.cqevi.net.cn/wnr.jsp, line 636: ReferenceError: event is not defined
+JavaScript error: http://i.cqevi.net.cn/wnr.jsp, line 636: ReferenceError: event is not defined
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+[Parent 7000, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 16688, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/sr[Child 13284, Chrome_ChildThread] WARNIc/chrome/common/ipc_channeNG: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chromel_win.cc, line 346/common/
+ipc_channel_win.cc, line 346
+[Child 13284, Chrome_ChildT[Parent 7000, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 17320, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 17320, 1540350067210	Marionette	INFO	Stopped listening on port 49916
+[GPU 848, Chrome_
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1540350081967	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\hyyte\\AppData\\Local\\Temp\\rust_mozprofile.AMNGJDumQbnC"
+1540350083820	Marionette	INFO	Listening on port 50200
+1540350084099	Marionette	WARN	TLS certificate errors will be ignored for this session
+1540350084121	Marionette	DEBUG	[6442450945] Frame script loaded
+1540350084122	Marionette	DEBUG	[6442450945] Frame script registered
+1540350084133	Marionette	DEBUG	[6442450945] Received DOM event beforeunload for about:blank
+1540350084180	Marionette	DEBUG	[6442450945] Received DOM event pagehide for about:blank
+1540350084272	Marionette	DEBUG	[6442450945] Received DOM event DOMContentLoaded for http://i.cqevi.net.cn/zfca/login
+1540350084424	Marionette	DEBUG	[6442450945] Received DOM event pageshow for http://i.cqevi.net.cn/zfca/login
+1540350084650	Marionette	DEBUG	[6442450945] Canceled page load listener because no navigation has been detected
+1540350084872	Marionette	DEBUG	[6442450945] Canceled page load listener because no navigation has been detected
+JavaScript warning: http://i.cqevi.net.cn/js/commanFunction.js, line 2043: unreachable code after return statement
+JavaScript warning: http://i.cqevi.net.cn/js/jquery-1.4.2.js, line 3686: unreachable code after return statement
+JavaScript error: http://i.cqevi.net.cn/wnr.jsp, line 726: SyntaxError: expected expression, got end of script
+JavaScript error: http://i.cqevi.net.cn/wnr.jsp, line 636: ReferenceError: event is not defined
+JavaScript error: http://i.cqevi.net.cn/wnr.jsp, line 636: ReferenceError: event is not defined
+JavaScript error: http://i.cqevi.net.cn/wnr.jsp, line 636: ReferenceError: event is not defined
+JavaScript error: http://i.cqevi.net.cn/wnr.jsp, line 636: ReferenceError: event is not defined
+JavaScript error: http://i.cqevi.net.cn/wnr.jsp, line 636: ReferenceError: event is not defined
+JavaScript error: http://i.cqevi.net.cn/wnr.jsp, line 636: ReferenceError: event is not defined
+JavaScript error: http://i.cqevi.net.cn/wnr.jsp, line 636: ReferenceError: event is not defined
+JavaScript error: http://i.cqevi.net.cn/wnr.jsp, line 636: ReferenceError: event is not defined
+JavaScript error: http://i.cqevi.net.cn/wnr.jsp, line 636: ReferenceError: event is not defined
+JavaScript error: http://i.cqevi.net.cn/wnr.jsp, line 636: ReferenceError: event is not defined
+JavaScript error: http://i.cqevi.net.cn/wnr.jsp, line 636: ReferenceError: event is not defined
+JavaScript error: http://i.cqevi.net.cn/wnr.jsp, line 636: ReferenceError: event is not defined
+JavaScript error: http://i.cqevi.net.cn/wnr.jsp, line 636: ReferenceError: event is not defined
+JavaScript error: http://i.cqevi.net.cn/wnr.jsp, line 636: ReferenceError: event is not defined
+JavaScript error: http://i.cqevi.net.cn/wnr.jsp, line 636: ReferenceError: event is not defined
+JavaScript error: http://i.cqevi.net.cn/wnr.jsp, line 636: ReferenceError: event is not defined
+JavaScript error: http://i.cqevi.net.cn/wnr.jsp, line 636: ReferenceError: event is not defined
+JavaScript error: http://i.cqevi.net.cn/wnr.jsp, line 636: ReferenceError: event is not defined
+JavaScript error: http://i.cqevi.net.cn/wnr.jsp, line 636: ReferenceError: event is not defined
+JavaScript error: http://i.cqevi.net.cn/wnr.jsp, line 636: ReferenceError: event is not defined
+[Child 17832, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 17832, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build[Parent 8752, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 7508, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 7508, Chrome_C[Parent 8752, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 13868, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 13868, Chr1540350181793	Marionette	INFO	Stopped listening on port 50200
+[GPU 11696, Ch
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1540350191254	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\hyyte\\AppData\\Local\\Temp\\rust_mozprofile.0f492f5LdRpr"
+1540350192589	Marionette	INFO	Listening on port 50301
+1540350192896	Marionette	WARN	TLS certificate errors will be ignored for this session
+1540350192935	Marionette	DEBUG	[6442450945] Frame script loaded
+1540350192936	Marionette	DEBUG	[6442450945] Frame script registered
+1540350192951	Marionette	DEBUG	[6442450945] Received DOM event beforeunload for about:blank
+1540350192987	Marionette	DEBUG	[6442450945] Received DOM event pagehide for about:blank
+1540350193064	Marionette	DEBUG	[6442450945] Received DOM event DOMContentLoaded for http://i.cqevi.net.cn/zfca/login
+1540350193196	Marionette	DEBUG	[6442450945] Received DOM event pageshow for http://i.cqevi.net.cn/zfca/login
+1540350193418	Marionette	DEBUG	[6442450945] Canceled page load listener because no navigation has been detected
+1540350193639	Marionette	DEBUG	[6442450945] Canceled page load listener because no navigation has been detected
+JavaScript warning: http://i.cqevi.net.cn/js/commanFunction.js, line 2043: unreachable code after return statement
+JavaScript warning: http://i.cqevi.net.cn/js/jquery-1.4.2.js, line 3686: unreachable code after return statement
+JavaScript error: http://i.cqevi.net.cn/wnr.jsp, line 726: SyntaxError: expected expression, got end of script
+1540350323875	Marionette	DEBUG	[6442450962] Frame script loaded
+1540350323899	Marionette	DEBUG	[6442450962] Frame script registered
+1540350323914	Marionette	DEBUG	[6442450965] Frame script loaded
+1540350323917	Marionette	DEBUG	[6442450965] Frame script registered
+JavaScript error: http://jwxt.cqevi.net.cn/js/xtwh.js, line 245: TypeError: Argument 1 of Node.removeChild is not an object.
+[Child 18044, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 18044[Parent 9224, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+1540350546089	Marionette	INFO	Stopped listening on port 50301
+[GPU 2264
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+	DEBUG	[6442450945] Frame script registered
+1540350384583	Marionette	DEBUG	[6442450945] Received DOM event beforeunload for about:blank
+1540350384618	Marionette	DEBUG	[6442450945] Received DOM event pagehide for about:blank
+1540350384690	Marionette	DEBUG	[6442450945] Received DOM event DOMContentLoaded for http://i.cqevi.net.cn/zfca/login
+1540350384841	Marionette	DEBUG	[6442450945] Received DOM event pageshow for http://i.cqevi.net.cn/zfca/login
+1540350385063	Marionette	DEBUG	[6442450945] Canceled page load listener because no navigation has been detected
+1540350385289	Marionette	DEBUG	[6442450945] Canceled page load listener because no navigation has been detected
+JavaScript warning: http://i.cqevi.net.cn/js/commanFunction.js, line 2043: unreachable code after return statement
+JavaScript warning: http://i.cqevi.net.cn/js/jquery-1.4.2.js, line 3686: unreachable code after return statement
+JavaScript error: http://i.cqevi.net.cn/wnr.jsp, line 726: SyntaxError: expected expression, got end of script
+[Parent 13924, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Parent 13924, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 11696, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child[Child 11696,  8504Chrome_C, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 8504, [Parent 13924, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 13696, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 1361540350546929	Marionette	INFO	Stopped listening on port 50384
+[GPU 17260, Chrome_C
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+ed page load listener because no navigation has been detected
+JavaScript warning: http://i.cqevi.net.cn/js/commanFunction.js, line 2043: unreachable code after return statement
+JavaScript warning: http://i.cqevi.net.cn/js/jquery-1.4.2.js, line 3686: unreachable code after return statement
+JavaScript error: http://i.cqevi.net.cn/wnr.jsp, line 726: SyntaxError: expected expression, got end of script
+JavaScript error: http://i.cqevi.net.cn/wnr.jsp, line 636: ReferenceError: event is not defined
+JavaScript error: http://i.cqevi.net.cn/wnr.jsp, line 636: ReferenceError: event is not defined
+JavaScript error: http://i.cqevi.net.cn/wnr.jsp, line 636: ReferenceError: event is not defined
+JavaScript error: http://i.cqevi.net.cn/wnr.jsp, line 636: ReferenceError: event is not defined
+JavaScript error: http://i.cqevi.net.cn/wnr.jsp, line 636: ReferenceError: event is not defined
+JavaScript error: http://i.cqevi.net.cn/wnr.jsp, line 636: ReferenceError: event is not defined
+JavaScript error: http://i.cqevi.net.cn/wnr.jsp, line 636: ReferenceError: event is not defined
+JavaScript error: http://i.cqevi.net.cn/wnr.jsp, line 636: ReferenceError: event is not defined
+JavaScript error: http://i.cqevi.net.cn/wnr.jsp, line 636: ReferenceError: event is not defined
+JavaScript error: http://i.cqevi.net.cn/wnr.jsp, line 636: ReferenceError: event is not defined
+JavaScript error: http://i.cqevi.net.cn/wnr.jsp, line 636: ReferenceError: event is not defined
+JavaScript error: http://i.cqevi.net.cn/wnr.jsp, line 636: ReferenceError: event is not defined
+JavaScript error: http://i.cqevi.net.cn/wnr.jsp, line 636: ReferenceError: event is not defined
+JavaScript error: http://i.cqevi.net.cn/wnr.jsp, line 636: ReferenceError: event is not defined
+[Parent 13284, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Parent 13284, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 18328, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 20540, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 20540, Chrome[Parent 13284, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 15284, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 15284, Chrome_ChildTh1540350544391	Marionette	INFO	Stopped listening on port 50450
+[GPU 1402
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1540351346126	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\hyyte\\AppData\\Local\\Temp\\rust_mozprofile.mo5VRUz2oXfb"
+1540351347619	Marionette	INFO	Listening on port 50776
+1540351347786	Marionette	WARN	TLS certificate errors will be ignored for this session
+1540351347810	Marionette	DEBUG	[6442450945] Frame script loaded
+1540351347811	Marionette	DEBUG	[6442450945] Frame script registered
+1540351347828	Marionette	DEBUG	[6442450945] Received DOM event beforeunload for about:blank
+1540351347872	Marionette	DEBUG	[6442450945] Received DOM event pagehide for about:blank
+1540351347959	Marionette	DEBUG	[6442450945] Received DOM event DOMContentLoaded for http://i.cqevi.net.cn/zfca/login
+1540351348067	Marionette	DEBUG	[6442450945] Received DOM event pageshow for http://i.cqevi.net.cn/zfca/login
+1540351348289	Marionette	DEBUG	[6442450945] Canceled page load listener because no navigation has been detected
+1540351348512	Marionette	DEBUG	[6442450945] Canceled page load listener because no navigation has been detected
+JavaScript warning: http://i.cqevi.net.cn/js/commanFunction.js, line 2043: unreachable code after return statement
+JavaScript warning: http://i.cqevi.net.cn/js/jquery-1.4.2.js, line 3686: unreachable code after return statement
+JavaScript error: http://i.cqevi.net.cn/wnr.jsp, line 726: SyntaxError: expected expression, got end of script
+1540351368391	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\hyyte\\AppData\\Local\\Temp\\rust_mozprofile.47SiRqIYmvxc"
+1540351369936	Marionette	INFO	Listening on port 50845
+1540351370016	Marionette	WARN	TLS certificate errors will be ignored for this session
+1540351370037	Marionette	DEBUG	[6442450945] Frame script loaded
+1540351370038	Marionette	DEBUG	[6442450945] Frame script registered
+1540351370048	Marionette	DEBUG	[6442450945] Received DOM event beforeunload for about:blank
+1540351370092	Marionette	DEBUG	[6442450945] Received DOM event pagehide for about:blank
+1540351370230	Marionette	DEBUG	[6442450945] Received DOM event DOMContentLoaded for http://i.cqevi.net.cn/zfca/login
+1540351370354	Marionette	DEBUG	[6442450945] Received DOM event pageshow for http://i.cqevi.net.cn/zfca/login
+1540351370577	Marionette	DEBUG	[6442450945] Canceled page load listener because no navigation has been detected
+1540351370797	Marionette	DEBUG	[6442450945] Canceled page load listener because no navigation has been detected
+JavaScript warning: http://i.cqevi.net.cn/js/commanFunction.js, line 2043: unreachable code after return statement
+JavaScript warning: http://i.cqevi.net.cn/js/jquery-1.4.2.js, line 3686: unreachable code after return statement
+JavaScript error: http://i.cqevi.net.cn/wnr.jsp, line 726: SyntaxError: expected expression, got end of script
+[Parent 17356, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Parent 17356, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 13740, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 8696, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 8696, Ch[Parent 17356, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 19684, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 11540351399624	Marionette	INFO	Stopped listening on port 50845
+[GPU 1456,
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1540351584055	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\hyyte\\AppData\\Local\\Temp\\rust_mozprofile.c3Npt0HNWy0r"
+1540351585714	Marionette	INFO	Listening on port 51313
+1540351586199	Marionette	WARN	TLS certificate errors will be ignored for this session
+1540351586221	Marionette	DEBUG	[6442450945] Frame script loaded
+1540351586222	Marionette	DEBUG	[6442450945] Frame script registered
+1540351586238	Marionette	DEBUG	[6442450945] Received DOM event beforeunload for about:blank
+1540351586277	Marionette	DEBUG	[6442450945] Received DOM event pagehide for about:blank
+1540351586358	Marionette	DEBUG	[6442450945] Received DOM event DOMContentLoaded for http://i.cqevi.net.cn/zfca/login
+1540351586467	Marionette	DEBUG	[6442450945] Received DOM event pageshow for http://i.cqevi.net.cn/zfca/login
+1540351586688	Marionette	DEBUG	[6442450945] Canceled page load listener because no navigation has been detected
+1540351586929	Marionette	DEBUG	[6442450945] Canceled page load listener because no navigation has been detected
+JavaScript warning: http://i.cqevi.net.cn/js/commanFunction.js, line 2043: unreachable code after return statement
+JavaScript warning: http://i.cqevi.net.cn/js/jquery-1.4.2.js, line 3686: unreachable code after return statement
+JavaScript error: http://i.cqevi.net.cn/wnr.jsp, line 726: SyntaxError: expected expression, got end of script
+1540351590539	Marionette	DEBUG	[6442450962] Frame script loaded
+1540351590564	Marionette	DEBUG	[6442450962] Frame script registered
+1540351590577	Marionette	DEBUG	[6442450965] Frame script loaded
+1540351590582	Marionette	DEBUG	[6442450965] Frame script registered
+JavaScript error: http://jwxt.cqevi.net.cn/js/xtwh.js, line 245: TypeError: Argument 1 of Node.removeChild is not an object.
+JavaScript error: http://i.cqevi.net.cn/wnr.jsp, line 636: ReferenceError: event is not defined
+JavaScript error: http://i.cqevi.net.cn/wnr.jsp, line 636: ReferenceError: event is not defined
+JavaScript error: http://i.cqevi.net.cn/wnr.jsp, line 636: ReferenceError: event is not defined
+JavaScript error: http://i.cqevi.net.cn/wnr.jsp, line 636: ReferenceError: event is not defined
+JavaScript error: http://i.cqevi.net.cn/wnr.jsp, line 636: ReferenceError: event is not defined
+JavaScript error: http://i.cqevi.net.cn/wnr.jsp, line 636: ReferenceError: event is not defined
+JavaScript error: http://i.cqevi.net.cn/wnr.jsp, line 636: ReferenceError: event is not defined
+JavaScript error: http://i.cqevi.net.cn/wnr.jsp, line 636: ReferenceError: event is not defined
+JavaScript error: http://i.cqevi.net.cn/wnr.jsp, line 636: ReferenceError: event is not defined
+JavaScript error: http://i.cqevi.net.cn/wnr.jsp, line 636: ReferenceError: event is not defined
+JavaScript error: http://i.cqevi.net.cn/wnr.jsp, line 636: ReferenceError: event is not defined
+JavaScript error: http://i.cqevi.net.cn/wnr.jsp, line 636: ReferenceError: event is not defined
+JavaScript error: http://i.cqevi.net.cn/wnr.jsp, line 636: ReferenceError: event is not defined
+JavaScript error: http://i.cqevi.net.cn/wnr.jsp, line 636: ReferenceError: event is not defined
+JavaScript error: http://i.cqevi.net.cn/wnr.jsp, line 636: ReferenceError: event is not defined
+[Parent 21300, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Parent 21300, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 10448, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346[Child 17956, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+
+[Child 10448, Ch[Child 17956, Chro1540352023288	Marionette	INFO	Stopped listening on port 51313
+[GPU 12572, 
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
