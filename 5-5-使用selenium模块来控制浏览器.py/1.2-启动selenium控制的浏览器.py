@@ -2,6 +2,6 @@
 然后我们输入以下代码：
 --------------------------------------------------------------------------------
 from selenium import webdriver # 不要直接 import selenium，这样之后的代码会过于冗长
-browser = webdriver.Firefox()
+browser = webdriver.Firefox()  # 使用谷歌的话就把 Firefox() 改成 Chrome()
 # 使用webdriver启动机电校的智慧校园登陆界面，你会在浏览器地址栏看到：当前网页受远程控制
 browser.get('http://i.cqevi.net.cn/zfca/login')

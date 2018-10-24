@@ -1,0 +1,177 @@
+1540354335186	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\hyyte\\AppData\\Local\\Temp\\rust_mozprofile.2R0DYq4rMMkx"
+1540354336571	Marionette	INFO	Listening on port 53987
+1540354336798	Marionette	WARN	TLS certificate errors will be ignored for this session
+1540354336822	Marionette	DEBUG	[6442450945] Frame script loaded
+1540354336823	Marionette	DEBUG	[6442450945] Frame script registered
+1540354336837	Marionette	DEBUG	[6442450945] Received DOM event beforeunload for about:blank
+1540354337181	Marionette	DEBUG	[6442450945] Received DOM event pagehide for about:blank
+1540354337790	Marionette	DEBUG	[6442450945] Received DOM event DOMContentLoaded for http://ac.qq.com/ComicView/index/id/505430/cid/1
+1540354338033	Marionette	DEBUG	[6442450945] Received DOM event pageshow for http://ac.qq.com/ComicView/index/id/505430/cid/1
+[Parent 6404, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Parent 6404, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 19156, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346[Child 21532, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+
+[Child 19156, Chrome_ChildThread] WA[RNING: pipe error: 109: f[Parent 6404, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 22280, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 2221540354368125	Marionette	INFO	Stopped listening on port 53987
+[GPU 21
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1540354468815	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\hyyte\\AppData\\Local\\Temp\\rust_mozprofile.vGUf37Cxdfvb"
+1540354470116	Marionette	INFO	Listening on port 54114
+1540354470448	Marionette	WARN	TLS certificate errors will be ignored for this session
+1540354470470	Marionette	DEBUG	[6442450945] Frame script loaded
+1540354470471	Marionette	DEBUG	[6442450945] Frame script registered
+1540354470484	Marionette	DEBUG	[6442450945] Received DOM event beforeunload for about:blank
+1540354470716	Marionette	DEBUG	[6442450945] Received DOM event pagehide for about:blank
+1540354471456	Marionette	DEBUG	[6442450945] Received DOM event DOMContentLoaded for http://ac.qq.com/ComicView/index/id/505430/cid/1
+1540354471781	Marionette	DEBUG	[6442450945] Received DOM event pageshow for http://ac.qq.com/ComicView/index/id/505430/cid/1
+[Parent 12552, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Parent 12552, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 22112, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/[Child 17460, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+
+[Child 17460, Chr[[Parent 12552, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 7748, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 7748, Chrom1540354564823	Marionette	INFO	Stopped listening o[Child 17644, Chrome_ChildThread] [Parent 21296, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 17644, Chrome_ChildThread] WARNING: pipe [Child 21780, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 21780, Chrome_ChildThread] WARNING: pipe error:[Parent 21296, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 21808, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 211540354565730	Marionette	INFO	Stopped listening on port 54188
+[GPU 17772, C
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1540354668351	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\hyyte\\AppData\\Local\\Temp\\rust_mozprofile.YyE1N5sKgVHb"
+1540354669634	Marionette	INFO	Listening on port 54291
+1540354669996	Marionette	WARN	TLS certificate errors will be ignored for this session
+1540354670018	Marionette	DEBUG	[6442450945] Frame script loaded
+1540354670019	Marionette	DEBUG	[6442450945] Frame script registered
+1540354670032	Marionette	DEBUG	[6442450945] Received DOM event beforeunload for about:blank
+1540354670370	Marionette	DEBUG	[6442450945] Received DOM event pagehide for about:blank
+1540354671039	Marionette	DEBUG	[6442450945] Received DOM event DOMContentLoaded for http://ac.qq.com/ComicView/index/id/505430/cid/1
+1540354672683	Marionette	DEBUG	[6442450945] Received DOM event pageshow for http://ac.qq.com/ComicView/index/id/505430/cid/1
+[Parent 18676, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Parent 18676, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 10580, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, [Child 16636, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+line 346[Child 16636, 
+[Child 10580, Chrome_C[Parent 18676, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 7732, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 7731540354697329	Marionette	INFO	Stopped listening on port 54291
+[GPU 21584, Chrome_ChildThr
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1540354834944	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\hyyte\\AppData\\Local\\Temp\\rust_mozprofile.xgIiSQRTDB57"
+1540354836275	Marionette	INFO	Listening on port 54575
+1540354836559	Marionette	WARN	TLS certificate errors will be ignored for this session
+1540354836581	Marionette	DEBUG	[6442450945] Frame script loaded
+1540354836583	Marionette	DEBUG	[6442450945] Frame script registered
+[Parent 3992, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 22396, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build[Child 7892, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channe/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346l_win.cc, l
+i[Chinld 22396, Chrome_Chie 346
+[Child 7892, C[Parent 3992, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 17772, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 17772, 1540354845001	Marionette	INFO	Stopped listening on port 54575
+[GPU 205
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1540386695058	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\hyyte\\AppData\\Local\\Temp\\rust_mozprofile.7KOM8D4AMJln"
+1540386696372	Marionette	INFO	Listening on port 57936
+1540386696699	Marionette	WARN	TLS certificate errors will be ignored for this session
+1540386696720	Marionette	DEBUG	[6442450945] Frame script loaded
+1540386696721	Marionette	DEBUG	[6442450945] Frame script registered
+1540386696733	Marionette	DEBUG	[6442450945] Received DOM event beforeunload for about:blank
+1540386697024	Marionette	DEBUG	[6442450945] Received DOM event pagehide for about:blank
+1540386697638	Marionette	DEBUG	[6442450945] Received DOM event DOMContentLoaded for http://ac.qq.com/ComicView/index/id/505430/cid/1
+1540386697942	Marionette	DEBUG	[6442450945] Received DOM event pageshow for http://ac.qq.com/ComicView/index/id/505430/cid/1
+[Parent 13372, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Parent 13372, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 20748, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346[
+Child [Child 20748, Chrome_Chi19168, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 19168, C[Parent 13372, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 848, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 848,1540387239932	Marionette	INFO	Stopped listening on port 57936
+[GPU 16632, Chrom
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1540392363722	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\hyyte\\AppData\\Local\\Temp\\rust_mozprofile.IJWFfwJkOFZc"
+1540392365901	Marionette	INFO	Listening on port 56483
+1540392365960	Marionette	WARN	TLS certificate errors will be ignored for this session
+1540392365983	Marionette	DEBUG	[6442450945] Frame script loaded
+1540392365986	Marionette	DEBUG	[6442450945] Frame script registered
+1540392366032	Marionette	DEBUG	[6442450945] Received DOM event beforeunload for about:blank
+1540392366343	Marionette	DEBUG	[6442450945] Received DOM event pagehide for about:blank
+1540392366958	Marionette	DEBUG	[6442450945] Received DOM event DOMContentLoaded for http://ac.qq.com/ComicView/index/id/505430/cid/1
+1540392367541	Marionette	DEBUG	[6442450945] Received DOM event pageshow for http://ac.qq.com/ComicView/index/id/505430/cid/1
+1540392387398	Marionette	DEBUG	[6442450945] Received DOM event beforeunload for http://ac.qq.com/ComicView/index/id/505430/cid/1
+1540392387642	Marionette	DEBUG	[6442450945] Received DOM event pagehide for http://ac.qq.com/ComicView/index/id/505430/cid/1
+1540392387643	Marionette	DEBUG	[6442450945] Received DOM event unload for http://ac.qq.com/ComicView/index/id/505430/cid/1
+1540392387692	Marionette	DEBUG	[6442450945] Received observer notification outer-window-destroyed for 6442450949
+1540392387692	Marionette	DEBUG	[6442450945] Received observer notification outer-window-destroyed for 6442450951
+1540392387692	Marionette	DEBUG	[6442450945] Received observer notification outer-window-destroyed for 6442450953
+1540392387692	Marionette	DEBUG	[6442450945] Received observer notification outer-window-destroyed for 6442450954
+1540392387863	Marionette	DEBUG	[6442450945] Received DOM event DOMContentLoaded for http://ac.qq.com/ComicView/index/id/505430/cid/2?fromPrev=1
+1540392387920	Marionette	DEBUG	[6442450945] Received DOM event pageshow for http://ac.qq.com/ComicView/index/id/505430/cid/2?fromPrev=1
+1540392404340	Marionette	DEBUG	[6442450945] Received DOM event beforeunload for http://ac.qq.com/ComicView/index/id/505430/cid/2?fromPrev=1
+1540392404542	Marionette	DEBUG	[6442450945] Received DOM event pagehide for http://ac.qq.com/ComicView/index/id/505430/cid/2?fromPrev=1
+1540392404542	Marionette	DEBUG	[6442450945] Received DOM event unload for http://ac.qq.com/ComicView/index/id/505430/cid/2?fromPrev=1
+1540392404587	Marionette	DEBUG	[6442450945] Received observer notification outer-window-destroyed for 6442450958
+1540392404587	Marionette	DEBUG	[6442450945] Received observer notification outer-window-destroyed for 6442450960
+1540392404588	Marionette	DEBUG	[6442450945] Received observer notification outer-window-destroyed for 6442450962
+1540392404588	Marionette	DEBUG	[6442450945] Received observer notification outer-window-destroyed for 6442450963
+1540392404791	Marionette	DEBUG	[6442450945] Received DOM event DOMContentLoaded for http://ac.qq.com/ComicView/index/id/505430/cid/3?fromPrev=1
+1540392404845	Marionette	DEBUG	[6442450945] Received DOM event pageshow for http://ac.qq.com/ComicView/index/id/505430/cid/3?fromPrev=1
+[Parent 17628, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Parent 17628, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 17432, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, [Child 6736, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346line 346
+
+[Ch[Ch[Parent 17628, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 252, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[1540392418590	Marionette	INFO	Stopped listening on port 56483
+[GPU 
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1540393246311	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\hyyte\\AppData\\Local\\Temp\\rust_mozprofile.2By1ONI0RqKI"
+1540393247636	Marionette	INFO	Listening on port 56765
+1540393247952	Marionette	WARN	TLS certificate errors will be ignored for this session
+1540393247973	Marionette	DEBUG	[6442450945] Frame script loaded
+1540393247975	Marionette	DEBUG	[6442450945] Frame script registered
+1540393247985	Marionette	DEBUG	[6442450945] Received DOM event beforeunload for about:blank
+1540393248288	Marionette	DEBUG	[6442450945] Received DOM event pagehide for about:blank
+1540393248940	Marionette	DEBUG	[6442450945] Received DOM event DOMContentLoaded for http://ac.qq.com/ComicView/index/id/505430/cid/1
+1540393249367	Marionette	DEBUG	[6442450945] Received DOM event pageshow for http://ac.qq.com/ComicView/index/id/505430/cid/1
+1540393268685	Marionette	DEBUG	[6442450945] Received DOM event beforeunload for http://ac.qq.com/ComicView/index/id/505430/cid/1
+1540393268956	Marionette	DEBUG	[6442450945] Received DOM event pagehide for http://ac.qq.com/ComicView/index/id/505430/cid/1
+1540393268957	Marionette	DEBUG	[6442450945] Received DOM event unload for http://ac.qq.com/ComicView/index/id/505430/cid/1
+1540393268998	Marionette	DEBUG	[6442450945] Received observer notification outer-window-destroyed for 6442450949
+1540393268998	Marionette	DEBUG	[6442450945] Received observer notification outer-window-destroyed for 6442450951
+1540393268998	Marionette	DEBUG	[6442450945] Received observer notification outer-window-destroyed for 6442450953
+1540393268999	Marionette	DEBUG	[6442450945] Received observer notification outer-window-destroyed for 6442450954
+1540393269180	Marionette	DEBUG	[6442450945] Received DOM event DOMContentLoaded for http://ac.qq.com/ComicView/index/id/505430/cid/2?fromPrev=1
+1540393269233	Marionette	DEBUG	[6442450945] Received DOM event pageshow for http://ac.qq.com/ComicView/index/id/505430/cid/2?fromPrev=1
+1540393285496	Marionette	DEBUG	[6442450945] Received DOM event beforeunload for http://ac.qq.com/ComicView/index/id/505430/cid/2?fromPrev=1
+1540393285770	Marionette	DEBUG	[6442450945] Received DOM event pagehide for http://ac.qq.com/ComicView/index/id/505430/cid/2?fromPrev=1
+1540393285770	Marionette	DEBUG	[6442450945] Received DOM event unload for http://ac.qq.com/ComicView/index/id/505430/cid/2?fromPrev=1
+1540393285812	Marionette	DEBUG	[6442450945] Received observer notification outer-window-destroyed for 6442450958
+1540393285813	Marionette	DEBUG	[6442450945] Received observer notification outer-window-destroyed for 6442450960
+1540393285813	Marionette	DEBUG	[6442450945] Received observer notification outer-window-destroyed for 6442450962
+1540393285813	Marionette	DEBUG	[6442450945] Received observer notification outer-window-destroyed for 6442450963
+1540393286003	Marionette	DEBUG	[6442450945] Received DOM event DOMContentLoaded for http://ac.qq.com/ComicView/index/id/505430/cid/3?fromPrev=1
+1540393286176	Marionette	DEBUG	[6442450945] Received DOM event pageshow for http://ac.qq.com/ComicView/index/id/505430/cid/3?fromPrev=1
+1540393302169	Marionette	DEBUG	[6442450945] Received DOM event beforeunload for http://ac.qq.com/ComicView/index/id/505430/cid/3?fromPrev=1
+1540393302404	Marionette	DEBUG	[6442450945] Received DOM event pagehide for http://ac.qq.com/ComicView/index/id/505430/cid/3?fromPrev=1
+1540393302404	Marionette	DEBUG	[6442450945] Received DOM event unload for http://ac.qq.com/ComicView/index/id/505430/cid/3?fromPrev=1
+1540393302462	Marionette	DEBUG	[6442450945] Received observer notification outer-window-destroyed for 6442450967
+1540393302463	Marionette	DEBUG	[6442450945] Received observer notification outer-window-destroyed for 6442450969
+1540393302463	Marionette	DEBUG	[6442450945] Received observer notification outer-window-destroyed for 6442450971
+1540393302464	Marionette	DEBUG	[6442450945] Received observer notification outer-window-destroyed for 6442450972
+1540393302622	Marionette	DEBUG	[6442450945] Received DOM event DOMContentLoaded for http://ac.qq.com/ComicView/index/id/505430/cid/4?fromPrev=1
+1540393302681	Marionette	DEBUG	[6442450945] Received DOM event pageshow for http://ac.qq.com/ComicView/index/id/505430/cid/4?fromPrev=1
+1540393318784	Marionette	DEBUG	[6442450945] Received DOM event beforeunload for http://ac.qq.com/ComicView/index/id/505430/cid/4?fromPrev=1
+1540393319063	Marionette	DEBUG	[6442450945] Received DOM event pagehide for http://ac.qq.com/ComicView/index/id/505430/cid/4?fromPrev=1
+1540393319063	Marionette	DEBUG	[6442450945] Received DOM event unload for http://ac.qq.com/ComicView/index/id/505430/cid/4?fromPrev=1
+1540393319380	Marionette	DEBUG	[6442450945] Received observer notification outer-window-destroyed for 6442450976
+1540393319380	Marionette	DEBUG	[6442450945] Received observer notification outer-window-destroyed for 6442450978
+1540393319380	Marionette	DEBUG	[6442450945] Received observer notification outer-window-destroyed for 6442450980
+1540393319380	Marionette	DEBUG	[6442450945] Received observer notification outer-window-destroyed for 6442450981
+1540393319437	Marionette	DEBUG	[6442450945] Received DOM event DOMContentLoaded for http://ac.qq.com/ComicView/index/id/505430/cid/5?fromPrev=1
+1540393319482	Marionette	DEBUG	[6442450945] Received DOM event pageshow for http://ac.qq.com/ComicView/index/id/505430/cid/5?fromPrev=1
