@@ -1,7 +1,7 @@
 import random
 
 # 法师职业和技能
-def mage(name):
+def Mage(name):
     """这是一个class(类), 你可以把它想象成一个蓝图，它可以创建法师职业的属性和技能"""
     dict = {}
     dict.setdefault("hp", 100)
@@ -20,7 +20,7 @@ def fireball(player, target):
 
 
 # 战士职业和技能
-def warrior(name):
+def Warrior(name):
     """这是一个class(类), 你可以把它想象成一个蓝图，它可以创建战士职业的属性和技能"""
     dict = {}
     dict.setdefault("hp", 200)
@@ -39,5 +39,5 @@ def shieldbash(player, target):
 
 
 # 将玩家1设定为法师，玩家2设定为战士
-player1 = mage("法师胡")
-player2 = warrior("战士郭")
+player1 = Mage("法师胡")
+player2 = Warrior("战士郭")

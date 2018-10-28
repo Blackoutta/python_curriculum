@@ -1,6 +1,6 @@
 '显式覆盖'的意思是：让一个子类继承父类之后，在子类中重新定义一些属性
---------------------------------------------------------------------------------
-class mage(object):
+--------------------------------------------------------------------------------.
+class Mage(object):
     """这是一个class(类), 你可以把它想象成一个蓝图，它可以创建法师职业的属性和技能"""
     def __init__(self, name):
         self.class_name = "法师"
@@ -16,7 +16,7 @@ class mage(object):
         damage = self.m_atk * 1.25
         print("{}对{}造成了{}点伤害！".format(self.name, target.name, damage))
         target.hp -= damage
-class warrior(object):
+class Warrior(object):
     """这是一个class(类), 你可以把它想象成一个蓝图，它可以创建战士职业的属性和技能"""
     def __init__(self, name):
         self.class_name = "战士"
@@ -32,14 +32,14 @@ class warrior(object):
         damage = self.atk * 0.25
         print("{}对{}造成了{}点伤害！".format(self.name, target.name, damage))
         target.hp -= damage
-class paladin(warrior):
+class Paladin(Warrior):
     """战士转职后会成为圣骑士，他们拥有更高的属性以及治疗技能"""
     def __init__(self, name):
         self.class_name = "圣骑士"  # 我尝试使用显式覆盖的方式改写职业名称
 
-player1 = mage("甘道夫")
-player2 = warrior("列奥尼达斯")
-player3 = paladin("乌瑟尔")
+player1 = Mage("甘道夫")
+player2 = Warrior("列奥尼达斯")
+player3 = Paladin("乌瑟尔")
 --------------------------------------------------------------------------------
 用 python -i 模式运行这段代码
 运行 player3.class_name你会得到"圣骑士"，证明class_name这个属性我们修改成功了
